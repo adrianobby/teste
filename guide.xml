@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNN Brasil">
+    <display-name lang="pt">CNN Brasil</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Record News ">
+    <display-name lang="pt">Record News </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="GloboNews HD ³">
+    <display-name lang="pt">GloboNews HD ³</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="pt">Warner</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Discovery Turbo HD ³">
+    <display-name lang="pt">Discovery Turbo HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science HD ³">
+    <display-name lang="pt">Discovery Science HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gazeta">
+    <display-name lang="pt">Gazeta</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="pt">History</display-name>
+  </channel>
+  <channel id="History 2 HD / H2 HD">
+    <display-name lang="pt">History 2 HD / H2 HD</display-name>
+  </channel>
+  <channel id="ID - Investiga��o Discovery">
+    <display-name lang="pt">ID - Investiga��o Discovery</display-name>
+  </channel>
+</tv>
